@@ -6,7 +6,7 @@
  */
 
 module.exports = {
-  ejemplo: function (req, res) {
+  createUser: function (req, res) {
     res.send("aaaaa");
   },
 };
